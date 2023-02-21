@@ -1,0 +1,12 @@
+.cmake/*
+.idea/*
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+CMakeFiles/*
+Testing/*
+bin/add_person
+bin/list_people
+src/*.pb.*
+build.ninja
+cmake_install.cmake
